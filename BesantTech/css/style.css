@@ -1,0 +1,16 @@
+.navbar-style{
+    background-color:rgb(165, 25, 114);
+}
+
+.a-brandStyle{
+    color:aliceblue;
+    font-size: larger;
+    font-weight: 800;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo-style{
+    width:40px;
+    height: 40px;
+}
